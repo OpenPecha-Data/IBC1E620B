@@ -1,16 +1,17 @@
-id: opecha:P000583
+id: P000583
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD87837
   title: མངའ་རིས་མང་ཡུལ་སྐྱིད་གྲོང་རྒྱ་དགུའི་ལོ་རྒྱུས་དང་འབྲེལ་བའི་བློ་བཟང་སྒྲོལ་མའི་ནང་མིའི་ལོ་རྒྱུས་ནོར་བུའི་མེ་ལོང་།
-  volume:
+  author: ''
+  volumes:
     d98f514041ee4c1585d53334819495ac:
       image_group_id: I1KG11805
       title: Volume 1 of mnga' ris mang yul skyid grong rgya dgu'i lo rgyus dang 'brel
         ba'i blo bzang sgrol ma'i nang mi'i lo rgyus nor bu'i me long /
       volume_number: 1
       total_pages: 442
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མངའ་རིས་མང་ཡུལ་སྐྱིད་གྲོང་རྒྱ་དགུའི་ལོ་རྒྱུས་དང་འབྲེལ་བའི་བློ་བཟང་སྒྲོལ་མའི་ནང་མིའི་ལོ་རྒྱུས་ནོར་བུའི་མེ་ལོང་།
   author: ''
